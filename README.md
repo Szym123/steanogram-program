@@ -17,7 +17,13 @@ When we enter the mode of creating transcripts, the program will ask for the inf
 If you choose the option to read a previously hidden message, the program will ask you to provide the name of the file with the text in which our information is hidden, as in the previous case it must be in the "ROBOCZY" folder. After which the program will ask you to provide the encryption key, with which we encrypted the key, as before it does not have to consist only of digits. Finally, the program will display the secret information.
 
 ## Diagram of operation
-![Diagram_ukrywania.png](Diagram_ukrywania.png){ width="800" height="600" style="display: block; margin: 0 auto" }
+![Diagram_ukrywania.png](Diagram_ukrywania.png)
+
+<img src="Diagram_ukrywania.png" 
+        alt="Picture" 
+        width="800" 
+        height="600" 
+        style="display: block; margin: 0 auto" />
 
 ![Diagram_odczytu.png](Diagram_odczytu.png) 
 
