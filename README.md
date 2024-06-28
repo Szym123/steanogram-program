@@ -1,4 +1,4 @@
-# steanogram
+# Steanogram
 
 It is a program on written using python language version 3.12.0, which is used to hide information in text form in other text and it is operated from the console.
 
