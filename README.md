@@ -21,8 +21,6 @@ If you choose the option to read a previously hidden message, the program will a
 
 <img src="Diagram_ukrywania.png" 
         alt="Picture" 
-        width="800" 
-        height="600" 
         style="display: block; margin: 0 auto" />
 
 ![Diagram_odczytu.png](Diagram_odczytu.png) 
