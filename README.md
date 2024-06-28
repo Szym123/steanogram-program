@@ -10,7 +10,7 @@ After starting the program, it has the option to choose a mode from between:
 * exiting the program
 
 > [!IMPORTANT]
-> All text files must be in the "ROBOCZY" folder.
+> All text files must be in the "**ROBOCZY**" folder.
 
 When we enter the mode of creating transcripts, the program will ask for the information we want to hide. It must not have any spaces, as the program does not encode them, in addition, it should not contain capital letters, and each character in it must have at least one equivalent in the plain text. Next, the program will ask you to provide the name of the file with the plain text, this file must be located in the "WORK" folder otherwise the program will not be able to find it. The text in this file must have a minimum of as many words as there are characters in the secret information, but it is advisable that it be several or even several times larger, depending on the type of characters in the text to be encrypted. Next, the program asks you to specify the file in which the plaintext will be saved along with the shorthand key, this file should be in the folder "ROBOCZY" be empty, because the program is adding information to the file, so everything that was previously in this file after this operation will remain there. In the absence of such a file, the program will create it itself. At the end, the program asks for the encryption key to encrypt the shorthand key, the password must not contain any characters other than digits.
 
