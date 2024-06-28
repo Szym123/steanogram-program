@@ -19,7 +19,7 @@ If you choose the option to read a previously hidden message, the program will a
 ## Diagram of operation
 ![Diagram_ukrywania.png](Diagram_ukrywania.png) | ![Diagram_odczytu.png](Diagram_odczytu.png) 
 -----------------------------------------------:|:-------------------------------------------
-Message hiding scheme                           | Message reading scheme
+<center> Message hiding scheme </center>        | <center> Message reading scheme </center>
 
 ## Principle of operation
 
